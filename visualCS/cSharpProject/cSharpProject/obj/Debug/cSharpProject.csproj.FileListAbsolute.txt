@@ -5,3 +5,10 @@ C:\Users\Matt\Documents\GitHub\IndependentStudies\visualCS\cSharpProject\cSharpP
 C:\Users\Matt\Documents\GitHub\IndependentStudies\visualCS\cSharpProject\cSharpProject\obj\Debug\cSharpProject.csproj.CoreCompileInputs.cache
 C:\Users\Matt\Documents\GitHub\IndependentStudies\visualCS\cSharpProject\cSharpProject\obj\Debug\cSharpProject.exe
 C:\Users\Matt\Documents\GitHub\IndependentStudies\visualCS\cSharpProject\cSharpProject\obj\Debug\cSharpProject.pdb
+C:\Users\JaidevBhatnagar\Documents\IndependentStudies\visualCS\cSharpProject\cSharpProject\bin\Debug\cSharpProject.exe.config
+C:\Users\JaidevBhatnagar\Documents\IndependentStudies\visualCS\cSharpProject\cSharpProject\bin\Debug\cSharpProject.exe
+C:\Users\JaidevBhatnagar\Documents\IndependentStudies\visualCS\cSharpProject\cSharpProject\bin\Debug\cSharpProject.pdb
+C:\Users\JaidevBhatnagar\Documents\IndependentStudies\visualCS\cSharpProject\cSharpProject\obj\Debug\cSharpProject.csprojResolveAssemblyReference.cache
+C:\Users\JaidevBhatnagar\Documents\IndependentStudies\visualCS\cSharpProject\cSharpProject\obj\Debug\cSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\JaidevBhatnagar\Documents\IndependentStudies\visualCS\cSharpProject\cSharpProject\obj\Debug\cSharpProject.exe
+C:\Users\JaidevBhatnagar\Documents\IndependentStudies\visualCS\cSharpProject\cSharpProject\obj\Debug\cSharpProject.pdb
