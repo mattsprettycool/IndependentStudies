@@ -17,7 +17,7 @@ namespace cSharpProject
             Console.WriteLine("\nWhat is your name?");
             //ReadLine() simply reads a line and outputs it, just like Scanner
             String name = Console.ReadLine();
-            //If you put a '$' in front of a string, you can access variables by surrounding them with braces.
+            //If you put a '$' in front of a string, you can access variables by surrounding them with braces
             Console.WriteLine($"\nHello, {name}.");
             //code to stop when desired
             Console.WriteLine("Press any key to stop...");
