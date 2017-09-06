@@ -8,7 +8,7 @@ namespace cSharpProject
 {
     class HelloWorldDemo
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
             //without anything stopping it, the console will instantly dissapear. To combat this, I'm going to use a simple "press any key to continue" setup
@@ -20,9 +20,27 @@ namespace cSharpProject
             //If you put a '$' in front of a string, you can access variables by surrounding them with braces
             Console.WriteLine($"\nHello, {name}.");
             //code to stop when desired
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey(true);
+            //This part shows how to deal with integer inputs
+            Console.WriteLine("\nEnter a number:");
+            //Convert.ToInt32 will convert objects to 32 bit signed integers
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("\nEnter another number:");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+            //apparently, you need the parentheses around integers to do the math, or else it will just combine them as strings
+            Console.WriteLine($"{num1} + {num2} = "+(num1+num2));
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey(true);
+            Console.WriteLine();
+            //This is what a for loop looks like
+            for(int i = 0; i < 10; i++)
+            {
+                Console.Write(i+" ");
+            }
+            Console.WriteLine();
             Console.WriteLine("Press any key to stop...");
             Console.ReadKey(true);
-            //man i sure love c#
         }
     }
 }
