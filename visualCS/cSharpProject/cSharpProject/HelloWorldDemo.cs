@@ -8,7 +8,7 @@ namespace cSharpProject
 {
     class HelloWorldDemo
     {
-        public static void Main(string[] args)
+        public static void DemoTester()
         {
             Console.WriteLine("Hello world!");
             //without anything stopping it, the console will instantly dissapear. To combat this, I'm going to use a simple "press any key to continue" setup
