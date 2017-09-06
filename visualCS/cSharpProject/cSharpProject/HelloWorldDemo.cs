@@ -8,6 +8,7 @@ namespace cSharpProject
 {
     class HelloWorldDemo
     {
+        //needs to be public to use it in the main class, the satic is to use it in a public static void main(String[] args) function, and the void is to not require an input.
         public static void DemoTester()
         {
             Console.WriteLine("Hello world!");
