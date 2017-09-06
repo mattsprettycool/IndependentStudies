@@ -22,6 +22,7 @@ namespace cSharpProject
             //code to stop when desired
             Console.WriteLine("Press any key to stop...");
             Console.ReadKey(true);
+            //man i sure love c#
         }
     }
 }
